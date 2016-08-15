@@ -1,0 +1,36 @@
+img{
+  width: 200px;
+  float: left;
+}
+nav{
+  padding-top: 1%;
+}
+ul li{
+  display: inline-block;
+}
+/*SECTION*/
+.bigtext{
+  font-size: 250%;
+}
+#fondosec{
+  background-color: #8d9294;
+  height: 400px;
+}
+.formulario{
+  background-color: #4c5153;
+  border-radius: 25px;
+}
+input{
+  display: block;
+  margin-bottom: 5%;
+  margin-left: 9%;
+  position: relative;
+  width: 90%;
+}
+
+button{
+  border: none;
+  background-color: #449a9f;
+  padding: 2% 27% 2% 27%;
+  margin: 3% 30% 5% 9%;
+}
